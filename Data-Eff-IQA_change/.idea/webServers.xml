@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2425a6bf-9d85-4bce-bfd4-3dd4a0360065" name="kfc">
+        <fileTransfer accessType="SFTP" host="本地主机" port="22" sshConfigId="275e83be-26ba-4b64-838f-30c1c9fbde5f" sshConfig="kfc">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
